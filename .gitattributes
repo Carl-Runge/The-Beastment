@@ -1,4 +1,4 @@
-*.gd filter=lfs diff=lfs merge=lfs -text linguist-laguage=GDScript
+*.gd filter=lfs diff=lfs merge=lfs linguist-laguage=GDScript -text
 *.tscn filter=lfs diff=lfs merge=lfs -text
 *.ogg filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
